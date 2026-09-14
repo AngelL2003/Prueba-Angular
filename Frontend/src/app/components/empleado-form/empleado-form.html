@@ -1,0 +1,94 @@
+<h3>Nuevo Paciente</h3>
+
+<form (ngSubmit)="guardar()">
+
+  <div>
+    <label>Tipo Documento:</label>
+    <input type="text"
+           [(ngModel)]="nuevoEmpleado.tipoDocumento"
+           name="tipoDocumento"
+           required>
+  </div>
+
+  <div>
+    <label>Numero Documento:</label>
+    <input type="number"
+           [(ngModel)]="nuevoEmpleado.numeroDocumento"
+           name="numeroDocumento"
+           required>
+  </div>
+
+  <div>
+    <label>Primer Nombre:</label>
+    <input type="text"
+           [(ngModel)]="nuevoEmpleado.primerNombre"
+           name="primerNombre"
+           required>
+  </div>
+
+  <div>
+    <label>Segundo Nombre:</label>
+    <input type="text"
+           [(ngModel)]="nuevoEmpleado.segundoNombre"
+           name="segundoNombre"
+           required>
+  </div>
+
+  <div>
+    <label>Primer Apellido:</label>
+    <input type="text"
+           [(ngModel)]="nuevoEmpleado.primerApellido"
+           name="primerApellido"
+           required>
+  </div>
+
+  <div>
+    <label>Segundo Apellido:</label>
+    <input type="text"
+           [(ngModel)]="nuevoEmpleado.segundoApellido"
+           name="segundoApellido"
+           required>
+  </div>
+
+  <div>
+    <label>Sexo:</label>
+    <input type="text"
+           [(ngModel)]="nuevoEmpleado.sexo"
+           name="sexo"
+           required>
+  </div>
+
+  <div>
+    <label>Edad:</label>
+    <input type="number"
+           [(ngModel)]="nuevoEmpleado.edad"
+           name="edad"
+           required>
+  </div>
+
+  <div>
+    <label>Telefono:</label>
+    <input type="number"
+           [(ngModel)]="nuevoEmpleado.telefono"
+           name="telefono"
+           required>
+  </div>
+
+  <div>
+    <label>Correo:</label>
+    <input type="email"
+           [(ngModel)]="nuevoEmpleado.correo"
+           name="correo"
+           required>
+  </div>
+
+  <div>
+    <label>Estado:</label>
+    <input type="checkbox"
+           [(ngModel)]="nuevoEmpleado.estadoPaciente"
+           name="estadoPaciente">
+  </div>
+
+<button type="submit">Guardar</button>
+
+</form>

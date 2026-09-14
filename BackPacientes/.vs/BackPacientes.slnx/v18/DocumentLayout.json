@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4ngul\\OneDrive\\Documentos\\Prueba\\BackPacientes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B44EC9D6-1747-4067-939D-A40FC7A0DF86}|BackPacientes\\BackPacientes.csproj|c:\\users\\4ngul\\onedrive\\documentos\\prueba\\backpacientes\\backpacientes\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44EC9D6-1747-4067-939D-A40FC7A0DF86}|BackPacientes\\BackPacientes.csproj|solutionrelative:backpacientes\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44EC9D6-1747-4067-939D-A40FC7A0DF86}|BackPacientes\\BackPacientes.csproj|c:\\users\\4ngul\\onedrive\\documentos\\prueba\\backpacientes\\backpacientes\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44EC9D6-1747-4067-939D-A40FC7A0DF86}|BackPacientes\\BackPacientes.csproj|solutionrelative:backpacientes\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44EC9D6-1747-4067-939D-A40FC7A0DF86}|BackPacientes\\BackPacientes.csproj|c:\\users\\4ngul\\onedrive\\documentos\\prueba\\backpacientes\\backpacientes\\backpacientes.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B44EC9D6-1747-4067-939D-A40FC7A0DF86}|BackPacientes\\BackPacientes.csproj|solutionrelative:backpacientes\\backpacientes.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44EC9D6-1747-4067-939D-A40FC7A0DF86}|BackPacientes\\BackPacientes.csproj|c:\\users\\4ngul\\onedrive\\documentos\\prueba\\backpacientes\\backpacientes\\service\\servicepaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44EC9D6-1747-4067-939D-A40FC7A0DF86}|BackPacientes\\BackPacientes.csproj|solutionrelative:backpacientes\\service\\servicepaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44EC9D6-1747-4067-939D-A40FC7A0DF86}|BackPacientes\\BackPacientes.csproj|c:\\users\\4ngul\\onedrive\\documentos\\prueba\\backpacientes\\backpacientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B44EC9D6-1747-4067-939D-A40FC7A0DF86}|BackPacientes\\BackPacientes.csproj|solutionrelative:backpacientes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B44EC9D6-1747-4067-939D-A40FC7A0DF86}|BackPacientes\\BackPacientes.csproj|c:\\users\\4ngul\\onedrive\\documentos\\prueba\\backpacientes\\backpacientes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B44EC9D6-1747-4067-939D-A40FC7A0DF86}|BackPacientes\\BackPacientes.csproj|solutionrelative:backpacientes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\4ngul\\OneDrive\\Documentos\\Prueba\\BackPacientes\\BackPacientes\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BackPacientes\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\4ngul\\OneDrive\\Documentos\\Prueba\\BackPacientes\\BackPacientes\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BackPacientes\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-14T20:26:49.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\4ngul\\OneDrive\\Documentos\\Prueba\\BackPacientes\\BackPacientes\\Program.cs",
+              "RelativeDocumentMoniker": "BackPacientes\\Program.cs",
+              "ToolTip": "C:\\Users\\4ngul\\OneDrive\\Documentos\\Prueba\\BackPacientes\\BackPacientes\\Program.cs",
+              "RelativeToolTip": "BackPacientes\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T19:42:08.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BackPacientes.http",
+              "DocumentMoniker": "C:\\Users\\4ngul\\OneDrive\\Documentos\\Prueba\\BackPacientes\\BackPacientes\\BackPacientes.http",
+              "RelativeDocumentMoniker": "BackPacientes\\BackPacientes.http",
+              "ToolTip": "C:\\Users\\4ngul\\OneDrive\\Documentos\\Prueba\\BackPacientes\\BackPacientes\\BackPacientes.http",
+              "RelativeToolTip": "BackPacientes\\BackPacientes.http",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-09-14T19:39:04.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\4ngul\\OneDrive\\Documentos\\Prueba\\BackPacientes\\BackPacientes\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "BackPacientes\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\4ngul\\OneDrive\\Documentos\\Prueba\\BackPacientes\\BackPacientes\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "BackPacientes\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T19:23:51.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServicePaciente.cs",
+              "DocumentMoniker": "C:\\Users\\4ngul\\OneDrive\\Documentos\\Prueba\\BackPacientes\\BackPacientes\\Service\\ServicePaciente.cs",
+              "RelativeDocumentMoniker": "BackPacientes\\Service\\ServicePaciente.cs",
+              "ToolTip": "C:\\Users\\4ngul\\OneDrive\\Documentos\\Prueba\\BackPacientes\\BackPacientes\\Service\\ServicePaciente.cs",
+              "RelativeToolTip": "BackPacientes\\Service\\ServicePaciente.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T19:22:33.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\4ngul\\OneDrive\\Documentos\\Prueba\\BackPacientes\\BackPacientes\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "BackPacientes\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\4ngul\\OneDrive\\Documentos\\Prueba\\BackPacientes\\BackPacientes\\Models\\Paciente.cs",
+              "RelativeToolTip": "BackPacientes\\Models\\Paciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T19:16:33.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

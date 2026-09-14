@@ -1,0 +1,21 @@
+@BackPacientes_HostAddress = http://localhost:5103
+
+POST {{BackPacientes_HostAddress}}/api/Paciente
+Content-Type: application/json
+{
+    "id": 1,
+    "tipoDocumento": "Cedula",
+    "numeroDocumento": 123456789,
+    "primerNombre": "Angel",
+    "segundoNombre": "Luis",
+    "primerApellido": "Cardenas",
+    "segundoApellido": "Moreno",
+    "sexo": "Masculino",
+    "edad": 23,
+    "telefono": 123456789,
+    "correo": "Hola@gmail.com",
+    "estadoPaciente": true
+}
+###
+GET {{BackPacientes_HostAddress}}/api/Paciente
+Content-Type: application/json
